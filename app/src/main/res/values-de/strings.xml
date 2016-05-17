@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Application</string>
+    <string name="msg1_app">Willkommen</string>
+    <string name="msg2_app">Eingeben</string>
+</resources>
